@@ -6,3 +6,5 @@ plotly
 calmap
 us
 pycountry_convert
+ipywidgets
+jupyterlab_widgets
